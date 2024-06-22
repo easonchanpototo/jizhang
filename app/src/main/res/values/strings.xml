@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">和风</string>
+    <string-array name="type">
+        <item>按日期排序</item>
+        <item>按标题排序</item>
+    </string-array>
+</resources>
